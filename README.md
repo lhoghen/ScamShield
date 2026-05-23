@@ -47,7 +47,7 @@ Expected: Risk 8/10, Multiple red flags
 ```
 Your order #12345 is ready for pickup. Store hours: 10am-9pm daily.
 ```
-Expected: Risk 1/10, No flags
+Expected: Risk 0/10, No flags
 
 ## 🛠️ Technology Stack
 
