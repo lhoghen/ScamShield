@@ -41,7 +41,7 @@ Open `scamshield.html` in any browser. No installation needed!
 ```
 Maybank Alert: Your account will be suspended immediately. Verify: bit.ly/verify123
 ```
-Expected: Risk 9/10, Multiple red flags
+Expected: Risk 8/10, Multiple red flags
 
 *Low Risk:*
 ```
